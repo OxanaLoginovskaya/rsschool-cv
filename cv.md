@@ -34,4 +34,4 @@ HTML5, CSS3, JavaScript, NodeJs, JQery, Sass/Less, Pug, Gulp/Webpack, Git, VueJS
     * Sport
     * Snowboarding
     * Dance
-* *Language:*     
+    
