@@ -28,10 +28,15 @@ HTML5, CSS3, JavaScript, NodeJs, JQery, Sass/Less, Pug, Gulp/Webpack, Git, VueJS
   **Additional Information**
      
 * *Language:* 
-    * English (B2, Upper Intermediate) 
+    * English (B2, Upper Intermediate)
+       
 * *Hobbies:* 
     * Reading a books
     * Sport
     * Snowboarding
     * Dance
-    
+      
+* *Soft skills:*
+     * Have strong inter-personal skills
+     * Teamwork
+     * Aptitude for learning
